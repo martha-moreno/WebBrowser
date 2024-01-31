@@ -1,5 +1,5 @@
 # **Web Browser**
-# Assignment 2
+## Assignment 2
 ## CSE 598- Distributed Systems and Design
 
 ## Introduction
