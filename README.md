@@ -1,6 +1,5 @@
 # **Web Browser**
-## Assignment 2
-## CSE 598- Distributed Systems and Design
+## Assignment 2: CSE 598 - Distributed Systems and Design
 
 ## Introduction
 > This Project is a Web browser that can take any URL and display the content of the page in the window.
